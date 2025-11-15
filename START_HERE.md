@@ -23,7 +23,7 @@ This project analyzed **37 Ghana Stock Exchange (GSE) stocks** using Modern Port
 ## 📁 Where to Start
 
 ### For Executives / Decision Makers
-👉 **Read First:** `ANALYSIS_SUMMARY.txt` (5 min read)
+👉 **Read First:** `ANALYSIS_SUMMARY.md` (5 min read)
 - High-level overview of findings
 - Three strategies ranked
 - Clear recommendation
@@ -51,7 +51,7 @@ This project analyzed **37 Ghana Stock Exchange (GSE) stocks** using Modern Port
 | Document | Size | Purpose | Read Time |
 |----------|------|---------|-----------|
 | **ETF_STRATEGY_FINDINGS.md** | 21 KB | Complete findings & recommendations | 20 min |
-| **ANALYSIS_SUMMARY.txt** | 13 KB | Executive summary | 5 min |
+| **ANALYSIS_SUMMARY.md** | 13 KB | Executive summary | 5 min |
 | **README.md** | 5.3 KB | Project overview | 3 min |
 
 ### 2. Visualizations (src/charts/)
