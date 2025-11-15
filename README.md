@@ -1,4 +1,4 @@
-# Ghana Stock Exchange Analysis - From Scratch
+# Ghana Stock Exchange Analysis
 
 This document describes the analysis performed in `src/gse_visual.ipynb`, which is a fresh, from-scratch analysis of Ghana Stock Exchange (GSE) historical data.
 
@@ -138,6 +138,17 @@ All runtime dependencies are listed in `requirements.txt`. The analysis uses sta
 - Add a small CLI or Python script to programmatically regenerate charts for CI.
 - Expand analysis: sector-level aggregation, dividend-adjusted returns, factor regressions, or backtests for simple strategies.
 
+## ⚠️ Disclaimer
+
+This analysis is for educational and informational purposes only. It is not financial advice. Past performance does not guarantee future results. Always conduct your own research and consult with a qualified financial advisor before making investment decisions.
+
+## 🙏 Acknowledgments
+
+- Ghana Stock Exchange for market data
+- Plotly for visualization capabilities
+- The Python data science community
+- This project was developed as part of a data analysis initiative to provide insights into the Ghana Stock Exchange. Special thanks to the contributors and the open-source community for the tools and libraries used.
+
 ## Contributing
 
 - Open an issue for any data problems, requests, or improvements.
@@ -147,9 +158,15 @@ All runtime dependencies are listed in `requirements.txt`. The analysis uses sta
 
 - This project is provided under the repository `LICENSE` file. Review it for permitted usage.
 
-## Contact
 
-- For questions or collaboration, open an issue in this repository or reach out to the repository owner.
+## Author
+
+- Wisdom Dosoo (https://github.com/wisdom-dosoo)
+
+
+## 📧 Contact
+
+For questions or suggestions, please open an issue or reach out at dosoowisdom1@gmail.com
 
 ---
 
