@@ -161,7 +161,7 @@ This analysis is for educational and informational purposes only. It is not fina
 
 ## Author
 
-- Wisdom Dosoo (https://github.com/wisdom-dosoo)
+- Wisdom Dosoo @wisdom-dosoo
 
 
 ## 📧 Contact
