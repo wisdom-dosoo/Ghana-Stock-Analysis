@@ -41,3 +41,10 @@ Thumbs.db
 # Environment
 .env
 .venv
+
+# Generated outputs
+src/charts/
+src/charts/*.png
+src/charts/*.csv
+ANALYSIS_SUMMARY.md
+FINDINGS_SUMMARY.md

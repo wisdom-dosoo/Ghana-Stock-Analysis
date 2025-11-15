@@ -114,7 +114,7 @@ Key charts produced by the analysis are saved in `src/charts/`. They are embedde
 
 ![Holdings comparison pie charts](src/charts/etf_strategy_comparison_holdings.png)
 
-> Tip: To regenerate these charts, run `src/analysis_from_scratch.ipynb` top-to-bottom after activating the project's virtual environment.
+> Tip: To regenerate these charts, run `src/gse_visual.ipynb` top-to-bottom after activating the project's virtual environment.
 
 ## Methodology (high-level)
 
