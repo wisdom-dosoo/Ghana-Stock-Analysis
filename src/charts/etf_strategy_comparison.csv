@@ -1,0 +1,4 @@
+Strategy,Holdings,Annual Return (%),Annual Vol (%),Sharpe Ratio,Top Holding (%),Diversification
+Max Sharpe (Unconstrained),23,0.84,0.25,3.35,97.2,Low
+Top-10 Normalized,10,0.27,0.16,1.68,97.7,Medium
+Max Sharpe (10% Cap),28,0.26,0.09,2.99,10.0,High
